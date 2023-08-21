@@ -365,3 +365,7 @@ img {
   text-align: center;
   justify-content: space-around;
 }
+
+.imgexp{
+  width: 40%;
+}
