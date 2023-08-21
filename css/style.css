@@ -94,12 +94,13 @@ li {
   border-radius: 20px;
   text-align: center;
   text-decoration: none;
+  border: 20%;
 }
 
 #CV {
 
-  margin-right: 15px;
-  margin-left: 15px;
+  margin-right: 20px;
+  margin-left: 20px;
 
 }
 
@@ -367,5 +368,6 @@ img {
 }
 
 .imgexp{
-  width: 40%;
+  width: 39%;
+  border-radius:7px;
 }
